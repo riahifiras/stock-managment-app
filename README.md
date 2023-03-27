@@ -1,5 +1,5 @@
 # stock-managment-app
-A GUI for managing a stock written in python using the tkinter library and an sqlite3 database
+A desktop app for managing a stock written in python using the tkinter library and an sqlite3 database
 
 # menu
 ![menu](https://user-images.githubusercontent.com/120566908/228080768-5a31cc9a-5501-4b49-b21a-df334cf6d59d.png)
